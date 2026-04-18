@@ -9,8 +9,12 @@ export default function Home() {
       <Link href={"/quiz"}>
 
         <button  >to Quiz</button>
+      
 
           </Link>
+    <Link href={"/cssfilter"}>
+   <button  >to Css Filter</button>
+    </Link>
       </main>
     </div>
   );
